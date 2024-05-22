@@ -18,7 +18,9 @@
 - **IDE** : Intellij, VSCode
 - **Framework** : Springboot(3.x), React, TailwindCSS
 - **Database** : MySQL(8.0.37)
+- **DevOps** : GCP(Compute Engine)
 - **ORM** : Spring Data JPA
+- **협업 툴** : Notion, Discord
 
 ## 📌 주요 기능
 #### 메인 페이지
